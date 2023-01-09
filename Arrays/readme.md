@@ -33,6 +33,10 @@
     right of the array and at the same time all the 1s shall be in the middle region of the array and 
     hence the array will be sorted. 
 
+---------------------------------------------------------------------------------------------------------
+## 6) Best time to Buy and Sell Stock
+    we Linearly traverse to array and keep the minimum updating each time a[i]>min
+    and keep updating profit =a[i]-min if profit>maxprofit 
 
 
 
