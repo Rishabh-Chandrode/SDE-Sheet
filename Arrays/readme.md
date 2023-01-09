@@ -28,7 +28,10 @@
 
 ---------------------------------------------------------------------------------------------------------
 ## 5) Sort Colors (Dutch National flag algorithm)
-     In this approach, we will be using 3 pointers named low, mid, and high. We will be using these 3 pointers to move around the values. The primary goal here is to move 0s to the left and 2s to the right of the array and at the same time all the 1s shall be in the middle region of the array and hence the array will be sorted. 
+    In this approach, we will be using 3 pointers named low, mid, and high. We will be using these 3 
+    pointers to move around the values. The primary goal here is to move 0s to the left and 2s to the 
+    right of the array and at the same time all the 1s shall be in the middle region of the array and 
+    hence the array will be sorted. 
 
 
 
