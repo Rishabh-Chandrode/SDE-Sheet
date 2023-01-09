@@ -1,9 +1,15 @@
-1# Set Matrix zeroes:
+1) Set Matrix zeroes:
+----------------------
     use 0th row and column to mark for 0 
     mark (i,j)=0 if  (i,0)||(0,j) == 0;
-    
+
 ---------------------------------------------------------------------------------------------------------
-3# Next Permutation:
+2) Pascal's Triangle:
+---------------------
+
+
+3) Next Permutation:
+--------------------
     We want to find a larger number, but not too large - just the next larger one =>
     We want to avoid chaning the number in the left - it will increase the number too much =>
     
@@ -14,7 +20,9 @@
     Next we want to minimize 3521 - thats easier - just sort the numbers to the right of 3 - 3125. So the unswer is 4323125
 
 ---------------------------------------------------------------------------------------------------------
-4# Maximum Subarray  #(Kadane’s Algorithm)
+
+4) Maximum Subarray  #(Kadane’s Algorithm):
+-------------------------------------------
     Take the subarray sum until it is greater than zero.
 
 
