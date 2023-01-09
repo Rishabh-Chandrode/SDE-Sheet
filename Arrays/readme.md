@@ -1,15 +1,16 @@
-1) Set Matrix zeroes:
-----------------------
+# 1) Set Matrix zeroes:
+
     use 0th row and column to mark for 0 
     mark (i,j)=0 if  (i,0)||(0,j) == 0;
 
 ---------------------------------------------------------------------------------------------------------
-2) Pascal's Triangle:
+# 2) Pascal's Triangle:
+
 ---------------------
 
 
-3) Next Permutation:
---------------------
+# 3) Next Permutation:
+
     We want to find a larger number, but not too large - just the next larger one =>
     We want to avoid chaning the number in the left - it will increase the number too much =>
     
@@ -21,8 +22,8 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-4) Maximum Subarray  #(Kadane’s Algorithm):
--------------------------------------------
+# 4) Maximum Subarray  #(Kadane’s Algorithm):
+
     Take the subarray sum until it is greater than zero.
 
 
