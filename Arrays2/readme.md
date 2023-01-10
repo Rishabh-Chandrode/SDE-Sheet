@@ -11,3 +11,11 @@
 ## 3) Merge Sorted Arrays:(gap Method)
 
         No intution found!!
+
+## 4) Find Duplicate in an Array 
+        Wrong test cases
+        solved using xor
+
+## 5) Find Missing and repeating num in an array
+        take xor of all element and nums from 1 to N
+        try 2 bucket method
