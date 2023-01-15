@@ -38,3 +38,7 @@
         In all the other cases we decrease both c1 and c2.
         In the last step, we will run a loop to check if num1 or nums2 are the majority elements
         or not by running a for loop check.
+
+## 5)Unique Paths 
+        Mathematical approach for mxn grid we have to chose m-1 or n-1 ways from ((m-1)+(n-1))
+        ways.
