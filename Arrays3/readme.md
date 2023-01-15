@@ -27,4 +27,14 @@
         If the traversing integer of array and Element are same increase Count by 1
         If they are different decrease Count by 1
         The integer present in Element is the result we are expecting 
-        
+
+## 4)Majority Element II (  Moore’s Voting Algorithm )
+        Let, ele be the element present in the array at any index. 
+
+        if ele == num1, so we increment c1.
+        if ele == num2, so we increment c2.
+        if c1 is 0, so we assign num1 = ele.
+        if c2 is 0, so we assign num2 = ele.
+        In all the other cases we decrease both c1 and c2.
+        In the last step, we will run a loop to check if num1 or nums2 are the majority elements
+        or not by running a for loop check.
