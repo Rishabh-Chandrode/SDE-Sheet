@@ -42,3 +42,8 @@
 ## 5)Unique Paths 
         Mathematical approach for mxn grid we have to chose m-1 or n-1 ways from ((m-1)+(n-1))
         ways.
+
+## 6)Reverse Pairs
+        Another case of Count Inversion problem solved in Arrays-2 Q.6
+        with added loop to check for given condition
+        
