@@ -13,7 +13,9 @@
 
 ## 3)Majority Element ( Moore’s Voting Algorithm )
         we can say that count of minority elements and majority elements are equal up to a certain point
-        of time in the array. So when we traverse through the array we try to keep track of the count of elements and which element we are tracking. Since the majority element appears more than N/2 times, we can say that at some point in array traversal we find the majority element. 
+        of time in the array. So when we traverse through the array we try to keep track of the count
+        of elements and which element we are tracking. Since the majority element appears more than
+        N/2 times, we can say that at some point in array traversal we find the majority element. 
 
         Approach: 
 
