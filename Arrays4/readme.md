@@ -17,3 +17,7 @@
         will keep searching for the numbers y = x+1, x+2, x+3, ….. And stop at the first ‘y’ which is 
         not present in the HashSet. Using this we can calculate the length of the longest consecutive 
         subsequence. 
+
+## 5)Largest subarray with sum 0
+        So in this problem, we’ll store the prefix sum of every element, and if we observe that 2 
+        elements have same prefix sum, we can conclude that the 2nd part of this subarray sums to zero
