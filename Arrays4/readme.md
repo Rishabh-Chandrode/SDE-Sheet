@@ -10,7 +10,7 @@
         we jump the duplicates, because taking duplicates will result in repeating quads. We can 
         easily jump duplicates, by skipping the same elements by running a loop.
 
-## 4)Longest Consecutive Sequence
+## 3)Longest Consecutive Sequence
         Approach: We will first push all are elements in the HashSet. Then we will run a for loop and 
         check for any number(x) if it is the starting number of the consecutive sequence by checking if 
         the HashSet contains (x-1) or not. If ‘x’ is the starting number of the consecutive sequence we 
@@ -18,6 +18,6 @@
         not present in the HashSet. Using this we can calculate the length of the longest consecutive 
         subsequence. 
 
-## 5)Largest subarray with sum 0
+## 4)Largest subarray with sum 0
         So in this problem, we’ll store the prefix sum of every element, and if we observe that 2 
         elements have same prefix sum, we can conclude that the 2nd part of this subarray sums to zero
