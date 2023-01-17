@@ -21,3 +21,15 @@
 ## 4)Largest subarray with sum 0
         So in this problem, we’ll store the prefix sum of every element, and if we observe that 2 
         elements have same prefix sum, we can conclude that the 2nd part of this subarray sums to zero
+
+## 5)No. of subarray with given XOR
+
+        |<-------XOR------->|
+        --------------------------
+        |<----y---->|<--x-->|
+
+        To find given x:-
+                XOR = x^y
+                x=y^XOR
+        
+        find suitable y for ezch xor using hash table.
