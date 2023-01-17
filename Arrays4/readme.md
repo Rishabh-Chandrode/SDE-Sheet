@@ -33,3 +33,7 @@
                 x=y^XOR
         
         find suitable y for ezch xor using hash table.
+
+## 6)Longest substring without repeating character
+        Create hash map storing latest index of character in the string.
+        whenever current char is in map update the ans.
