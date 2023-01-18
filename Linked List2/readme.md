@@ -8,3 +8,6 @@
 
 ## 3)Reverse LL in k group
         Meko kuch nhi ata.Mere se mat pucho
+
+## 4)Palindrome LL
+        reverse half LL and check
