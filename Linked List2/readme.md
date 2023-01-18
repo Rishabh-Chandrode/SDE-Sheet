@@ -11,3 +11,6 @@
 
 ## 4)Palindrome LL
         reverse half LL and check
+
+## 5)Falttening of LL
+        Merge sort algorithm
