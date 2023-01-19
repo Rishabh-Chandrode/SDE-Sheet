@@ -34,3 +34,6 @@
             surely say that there is a block to the left of r which is at least of height[r]. So by 
             traversing these cases and using two pointers approach the time complexity can be decreased 
             without using extra space.
+
+## 5)Remove Duplicates from Sorted Array
+        Two pointer on at ind and other iterating
