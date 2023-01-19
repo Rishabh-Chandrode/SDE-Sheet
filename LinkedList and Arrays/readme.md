@@ -37,3 +37,5 @@
 
 ## 5)Remove Duplicates from Sorted Array
         Two pointer on at ind and other iterating
+
+## 6)Max Consecutive Ones
