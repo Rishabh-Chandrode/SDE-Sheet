@@ -11,4 +11,7 @@
 
         p->next->random = p->random->next;
 
- 
+## 3)3sum
+        sort the array.
+        one loop for i 
+        and anathor loop for low and high
