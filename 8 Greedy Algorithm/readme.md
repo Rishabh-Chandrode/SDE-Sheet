@@ -16,3 +16,8 @@
         Sort both array
         Every entry in arr occupies one platform
         Every entry in dep releases one platform
+
+## 3)Job sequencing Problem
+        static bool comp(Job a,Job b){
+        return a.profit > b.profit;
+        }
