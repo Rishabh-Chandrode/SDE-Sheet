@@ -19,7 +19,8 @@
 ## 4)Traping rain water
         Solution 3:Optimal Solution(Two pointer approach)
 
-            Approach: Take 2 pointer l(left pointer) and r(right pointer) pointing to 0th and (n-1)th index respectively.Take two variables leftMax and rightMax and initialise it to 0.If heigh
+            Approach: Take 2 pointer l(left pointer) and r(right pointer) pointing to 0th and (n-1)th
+            index respectively.Take two variables leftMax and rightMax and initialise it to 0.If heigh
             [l] is less than or equal to height[r] then if leftMax is less then height[l] update leftMax 
             to height[l] else add leftMax-height[l] to your final answer and move the l pointer to the 
             right i.e l++.If height[r] is less then height[l],then now we are dealing with the right 
@@ -33,4 +34,3 @@
             surely say that there is a block to the left of r which is at least of height[r]. So by 
             traversing these cases and using two pointers approach the time complexity can be decreased 
             without using extra space.
-            
