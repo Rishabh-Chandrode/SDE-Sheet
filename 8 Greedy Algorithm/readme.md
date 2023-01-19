@@ -11,3 +11,8 @@
             we will have at most an equal number of choices left how we can select the next
             event. Hence, selecting an event that ends later can never yield a better solution, and
             the greedy algorithm is correct.
+
+## 2)Minimum Platform
+        Sort both array
+        Every entry in arr occupies one platform
+        Every entry in dep releases one platform
