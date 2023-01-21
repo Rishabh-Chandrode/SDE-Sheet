@@ -21,3 +21,11 @@
         static bool comp(Job a,Job b){
         return a.profit > b.profit;
         }
+
+## 4)Fractional Knapsack
+        Profit by weight
+        bool static comp(Item a, Item b) {
+         double r1 = (double) a.value / (double) a.weight;
+         double r2 = (double) b.value / (double) b.weight;
+         return r1 > r2;
+        }
