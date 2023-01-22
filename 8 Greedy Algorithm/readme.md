@@ -29,3 +29,10 @@
          double r2 = (double) b.value / (double) b.weight;
          return r1 > r2;
         }
+
+## 5)Coin Change
+        DP variant of minimum coin problem;
+        solved using DP Memoization
+
+## 6)Activity Selection Problem
+        same as N meeting in one room
