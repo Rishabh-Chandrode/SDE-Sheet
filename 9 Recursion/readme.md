@@ -3,3 +3,9 @@
 
 ## 2)Unique Subsets
         use sets for unique subsets
+    
+## 3)Combination Sum
+        Choose not choose logic 
+        just think for current index
+
+        to choose the current index call again with current index else call for next index
