@@ -15,3 +15,7 @@
         
 ## 5)Palindrome Partitioning
         https://takeuforward.org/data-structure/palindrome-partitioning/
+
+## 6)Kth Permutation Sequence
+        vector<int> v;
+        v.erase(pos pointer);
