@@ -13,3 +13,5 @@
 ## 4)Combination Sum II
         https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/
         
+## 5)Palindrome Partitioning
+        https://takeuforward.org/data-structure/palindrome-partitioning/
