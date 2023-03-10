@@ -12,4 +12,14 @@
 
 ## 5)Rat in a Maze
         keep a array for visited position
+
+## 6)Word Break
+        ex:- "leetcode"
+        search for:-    ""
+                        "l"
+                        "le"
+                        "lee"
+                        "leet"
+        if found in word dict apply same algo on remaining string
+        save value for each i;
         
