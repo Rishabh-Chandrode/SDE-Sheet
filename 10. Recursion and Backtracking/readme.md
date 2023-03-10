@@ -9,4 +9,7 @@
 
 ## 4)M-Colouring problem
         try every colour for every node from 1 to m
+
+## 5)Rat in a Maze
+        keep a array for visited position
         
