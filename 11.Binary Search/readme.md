@@ -10,3 +10,6 @@
 
 ## 3)Single element in a sorted array
         the first instance of every element is occurring on the even index and the second instance on the odd index.
+
+## 4)Search in Rotated Sorted Array
+        search for sorted array if target is not present in that array go for second array
