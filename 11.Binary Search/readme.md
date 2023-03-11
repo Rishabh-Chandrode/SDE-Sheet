@@ -13,3 +13,8 @@
 
 ## 4)Search in Rotated Sorted Array
         search for sorted array if target is not present in that array go for second array
+
+## 5)Median of Two Sorted Arrays
+        make partition of n/2 
+                2 3 6   15 
+                1 4     7 10 12 
