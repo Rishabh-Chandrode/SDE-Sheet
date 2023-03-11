@@ -18,3 +18,6 @@
         make partition of n/2 
                 2 3 6   15 
                 1 4     7 10 12 
+
+## 6)K-th element of two sorted Arrays
+        find element which has k no of element less than it
