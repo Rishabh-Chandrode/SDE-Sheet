@@ -29,3 +29,8 @@
         such that each student gets pages<=mid
         if pages lack decrease the no of pages (high = mid-1)
         if pages are access increase the pages (low = mid+1)
+
+## 4)Aggressive Cows
+        minimum distance between two cows = 1 = low
+        max distance between two cows = last pos - firstpos = high
+        find mid and place cows
