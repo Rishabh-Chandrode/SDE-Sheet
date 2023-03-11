@@ -21,3 +21,11 @@
 
 ## 6)K-th element of two sorted Arrays
         find element which has k no of element less than it
+
+## 7)Allocate minimum number of pages
+        low will be min page of 1 book 
+        high will be summ of all pages
+        now we have a range, find mid and distribute it to m student 
+        such that each student gets pages<=mid
+        if pages lack decrease the no of pages (high = mid-1)
+        if pages are access increase the pages (low = mid+1)
