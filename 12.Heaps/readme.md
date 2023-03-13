@@ -24,3 +24,6 @@
 
 ## 4)Find Median from Data Stream
         create two heaps one for first half and one for second half
+
+## 5)Merge k sorted arrays
+        push into heap pop from heap
