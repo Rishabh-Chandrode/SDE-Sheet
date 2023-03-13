@@ -27,3 +27,8 @@
 
 ## 5)Merge k sorted arrays
         push into heap pop from heap
+
+## 6)K most frequent elements
+        count frequency of each element by map
+        put map element into heap
+        pop from heap and return ans;
