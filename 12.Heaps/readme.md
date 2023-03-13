@@ -21,3 +21,6 @@
 
 ## 3) Combinational sum
         Youtube pe dekh le bhai
+
+## 4)Find Median from Data Stream
+        create two heaps one for first half and one for second half
