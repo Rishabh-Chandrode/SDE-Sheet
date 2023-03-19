@@ -7,3 +7,7 @@
 
 ## 3)LFU Cache
         https://leetcode.com/problems/lfu-cache/editorial/
+
+## 4)Largest Rectangle in Histogram
+        find right smaller and left smaller value for i
+        that will be the width
