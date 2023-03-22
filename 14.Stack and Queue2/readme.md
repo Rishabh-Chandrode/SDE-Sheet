@@ -32,3 +32,6 @@
         use bfs for level order traversal
         make a queue push current rotten pos 
         increase time , push freshly rotted pos
+
+## 8)Online Stock Span
+        store index of element greater than first element
