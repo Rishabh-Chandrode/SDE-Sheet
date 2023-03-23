@@ -47,3 +47,8 @@
 
 ## 9)Maximum of minimum for every window size
         check for every element
+
+## 10)The Celebrity Problem
+        Use stack to store all element
+        remove top 2
+        check if they know each other
