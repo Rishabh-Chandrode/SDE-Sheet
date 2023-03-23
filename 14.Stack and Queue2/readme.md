@@ -44,3 +44,6 @@
 
 ## 8)Online Stock Span
         store index of element greater than first element
+
+## 9)Maximum of minimum for every window size
+        check for every element
