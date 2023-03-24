@@ -10,4 +10,6 @@
          ans-=s[i];
 
 ## 4)String to Integer (atoi)
-        
+
+## 5)Longest Common Prefix
+        sort the array compare first and last strings
