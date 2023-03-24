@@ -8,3 +8,6 @@
 ## 3)Roman to Integer
         if s[i] < s[i+1]
          ans-=s[i];
+
+## 4)String to Integer (atoi)
+        
