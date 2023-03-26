@@ -13,3 +13,7 @@
 
 ## 5)Longest Common Prefix
         sort the array compare first and last strings
+
+## 6)Repeated String Match (Rabin Karp Algorithm)
+        Repeate a string until it is greater than b
+        apply Rabin Karp algorithm
