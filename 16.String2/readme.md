@@ -5,3 +5,6 @@
 ## 2)Longest Happy Prefix
         KMP pre processing algorithm
         https://leetcode.com/problems/longest-happy-prefix/solutions/547204/c-kmp-preprocessing/
+
+## 3)Minimum characters needed to be inserted in the beginning to make it palindromic
+        s.length() - length of longest common subsequence
