@@ -13,3 +13,7 @@
         string only contain lowercase english alphabet.
         use array of size 26.
         s[i]-'a';
+
+## 5)Count and Say
+        '0'+count;
+        use recursive call 
