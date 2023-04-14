@@ -8,3 +8,8 @@
 
 ## 3)Minimum characters needed to be inserted in the beginning to make it palindromic
         s.length() - length of longest common subsequence
+
+## 4)Check for Anagrams
+        string only contain lowercase english alphabet.
+        use array of size 26.
+        s[i]-'a';
