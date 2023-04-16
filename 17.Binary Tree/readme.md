@@ -5,3 +5,6 @@
 
 ## 7)Bottom View of Binary Tree
         use map for storing horizontal distance and queue for level order traversal
+
+## 8)Top View of Binary Tree
+        same os bottom view except keep the first element in map
