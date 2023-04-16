@@ -8,3 +8,5 @@
 
 ## 8)Top View of Binary Tree
         same os bottom view except keep the first element in map
+
+## 9)All traversal in on go
