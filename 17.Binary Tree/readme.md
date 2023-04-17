@@ -57,3 +57,4 @@
         use map<int,map<int,multiset<int>>>
 
 ## 11)Root to node path in a Binary Tree
+        store index of each node
