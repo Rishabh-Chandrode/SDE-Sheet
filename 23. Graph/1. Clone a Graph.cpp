@@ -1,5 +1,11 @@
+#include <bits/stdc++.h>
+
+
+using namespace std;
+
 /*
 // Definition for a Node.
+*/
 class Node {
 public:
     int val;
@@ -17,7 +23,7 @@ public:
         neighbors = _neighbors;
     }
 };
-*/
+
 
 // using bfs approach
 
@@ -54,7 +60,27 @@ public:
 
 //using dfs approach
 
+class Solution {
+public:
+    map<Node*,Node*> m;
+    Node* cloneGraph(Node* node) {
+        if(!node) return node;
+        if(m[node]==NULL){
+            m[node] = new Node(node->val);
+        }
+        int n = node->neighbors.size();
+        vector<Node*> v = node->neighbors;
+        for(int i = 0;i<n;i++){
+            if(m[v[i]] == NULL){
+                m[v[i]] = new Node(v[i]->val);
+                cloneGraph(v[i]);
+            }
+            m[node]->neighbors.push_back(m[v[i]]);
+        }
 
+        return m[node];
+    }
+};
 
 
 
