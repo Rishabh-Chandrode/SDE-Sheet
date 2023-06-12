@@ -20,4 +20,8 @@
 ## 5)DFS detect cycle
         pass parent in parameter
 
+## 6)DFS detect cycle in Directed graph
+        use vector to store recursion stack
+        remember to remove update recursion array while bracktracking
+
 
