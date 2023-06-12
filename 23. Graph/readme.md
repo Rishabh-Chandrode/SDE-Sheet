@@ -14,10 +14,10 @@
 
 ## 3) BFS Graph Traversal
 
-## 3.1) BFS detect cycle
+## 4) BFS detect cycle
         go from different paths if two paths colide with each other then it is a cycle
 
-## 3.2)DFS detect cycle
+## 5)DFS detect cycle
         pass parent in parameter
 
 
