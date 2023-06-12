@@ -10,4 +10,8 @@
                         else
                                 recursion in curr
 
+## 2) DFS Graph Traversal
+
+## 3) BFS Graph Traversal
+
 
