@@ -2,6 +2,11 @@
         Topological sorting :- Linear ordering of vertices such that there is an edge between u and v , u appears before v in 
         the ordering
 
+## Bipartite Graph
+        Any graph with even cycle is a bipartite graph
+                or
+        graph with odd cycle is not a bipartite graph
+
 
 ## 1. Clone a Graph
         use map to store copy of nodes
@@ -32,6 +37,10 @@
         use vector to store recursion stack
         remember to remove update recursion array while bracktracking
 
+## 7)BFS detect cycle in Directed graph
+        if size of topological sorted vector is equal to no. of node 
+        no cycle is present
+
 ## 8)Topological sort BFS
         create indegree vector
         push node into queue whose indegree is zero
@@ -44,7 +53,21 @@
         call dfs for adj of node
         put node in stack while backtracking
         remove from stack and put into vector 
-        
+
+## 10)Course Schedule
+        application of cycle detection in directed graph
+
+## 11)No. of Islands
+        using dfs: use flood fill
+        using bfs: use visited array and queue
+
+## 12)Bipartite Check using BFS
+        colour the graph with only two colours 
+        if it can be coloured the it is bipartite graph
+
+## 13)Bipartite Check using DFS
+        pass current colour in parameter
+
 
 
 
