@@ -3,9 +3,9 @@
         the ordering
 
 ## Bipartite Graph
-        Any graph with even cycle is a bipartite graph
+        Any graph with even cycle is a bipartite graph.
                 or
-        graph with odd cycle is not a bipartite graph
+        graph with odd cycle is not a bipartite graph.
 
 
 ## 1. Clone a Graph
