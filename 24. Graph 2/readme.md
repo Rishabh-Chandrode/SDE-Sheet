@@ -5,6 +5,9 @@
         3- apply dfs on the nodes in the topological order
 
 ## 2)Implementing Dijkstra Algorithm
+        https://takeuforward.org/data-structure/g-35-print-shortest-path-dijkstras-algorithm/
+        
+         given a weighted undirected graph having n+1 vertices numbered from 0 to n and m edges describing there are edges between a to b with some weight, find the shortest path between the vertex 1 and the vertex n, and if the path does not exist then return a list consisting of only -1.
 
         Does not work for negative cycle
 
