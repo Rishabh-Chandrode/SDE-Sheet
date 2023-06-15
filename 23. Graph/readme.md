@@ -35,10 +35,10 @@
 
 ## 6)DFS detect cycle in Directed graph
         use vector to store recursion stack
-        remember to remove update recursion array while bracktracking
+        remember to remove/update recursion array while bracktracking
 
 ## 7)BFS detect cycle in Directed graph
-        if size of topological sorted vector is equal to no. of node 
+        if size of topological sorted vector is equal to number of node 
         no cycle is present
 
 ## 8)Topological sort BFS
