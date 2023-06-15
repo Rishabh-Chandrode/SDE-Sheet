@@ -9,3 +9,10 @@
 ## 3)longest common Subsequence
 
 ## 4) 0-1 Knapsack problem***********
+
+## 5)Edit distance
+        Recursion + Algorithmic approach
+
+## 6)Maximum sum increasing subsequence
+
+## 7)Matrix Chain Multiplication *****(DP on Partitions)*******
