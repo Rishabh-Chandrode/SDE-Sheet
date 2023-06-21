@@ -18,6 +18,9 @@
         make partition of n/2 
                 2 3 6   15 
                 1 4     7 10 12 
+        
+        use low as 0 and high as the no of element in shorter array
+        use binary search to choose no of element from 1 shorter array
 
 ## 6)K-th element of two sorted Arrays
         find element which has k no of element less than it
