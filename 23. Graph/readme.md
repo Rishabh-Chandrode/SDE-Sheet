@@ -8,6 +8,10 @@
         graph with odd cycle is not a bipartite graph.
 
 
+## undirected cycle detection 
+        for undirected cycle detection just check if the vis node is not parent 
+        either by queue (BFS) or by passing parent to the parameter(DFS) in recursion
+
 ## 1. Clone a Graph
         use map to store copy of nodes
         queue for bfs traversal
@@ -26,12 +30,16 @@
 ## 3) BFS Graph Traversal
         use queue to treverse
 
+
+
+
 ## 4) BFS detect cycle in undirected graph
         go from different paths if two paths colide with each other then it is a cycle
 
 ## 5)DFS detect cycle in undirected graph
         pass parent in parameter
         check for visited node which in not parent
+
 
 ## 6)DFS detect cycle in Directed graph
         use vector to store recursion stack

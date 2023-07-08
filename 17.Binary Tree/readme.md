@@ -1,6 +1,32 @@
 ## 1,2,3,4,5)Tree Traversal
 
-                Tree traversal using Morris Traversal
+        Tree traversal using Morris Traversal
+
+        inorder using stack
+                while (curr != null || !stack.isEmpty()) {
+                        while (curr != null) {
+                                stack.push(curr);
+                                curr = curr.left;
+                        }
+                        curr = stack.pop();
+                        res.add(curr.val);
+                        curr = curr.right;
+                }
+
+        preorder using stack
+        
+                Initialize an empty array answer and an empty stack stack.
+
+                Add root to stack.
+
+                While stack is not empty, get the top node currNode from stack. If currNode is not NULL:
+
+                add its value to answer.
+                add its right child to stack.
+                add its left child to stack.
+                Then repeat step 3.
+
+                Return answer after we empty stack.
 
 ## 6)Binary Tree Right Side View
 
@@ -10,7 +36,7 @@
 
 ## 8)Top View of Binary Tree
 
-        same os bottom view except keep the first element in map
+        same as bottom view except keep the first element in map
 
 ## 9)All traversal in on go
 

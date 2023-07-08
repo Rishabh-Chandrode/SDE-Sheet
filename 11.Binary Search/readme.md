@@ -25,6 +25,14 @@
 ## 6)K-th element of two sorted Arrays
         find element which has k no of element less than it
 
+        binary search approach can be used:
+        low will be the minimum no of elements that can be taken from the smaller array 
+        i.e  low = max(0,k-m);
+        high will be the maximum no of elements that can be taken from smaller array
+        i.e high = min(n,k); you cant take more than k elements
+
+        
+
 ## 7)Allocate minimum number of pages
         low will be min page of 1 book 
         high will be summ of all pages
