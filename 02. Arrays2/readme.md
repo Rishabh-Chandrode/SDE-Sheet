@@ -13,8 +13,8 @@
         No intution found!!
 
 ## 4) Find Duplicate in an Array 
-        Wrong test cases
-        solved using xor
+        treat array as linked list
+        cycle in a linkedlist
 
 ## 5) Find Missing and repeating num in an array
         take xor of all element and nums from 1 to N
